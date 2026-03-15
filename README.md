@@ -5,6 +5,6 @@ Since searching for definitions of verbs and nouns in my Ancient Greek textbook 
 This program will first ask the user whether it's searching for a verb or a noun. After that, the user will be asked again for the verb/noun. With the input, the program will display the appropriate definition of the noun/verb as well as provide some additional information to the user.
 
 ## Videos
-- [Code Demo]()
-- [Code Walkthrough]()
+- [Code Demo](https://youtu.be/r3J3BRzKACc)
+- [Code Walkthrough](https://youtu.be/B_hR3KsEvZ0)
  
