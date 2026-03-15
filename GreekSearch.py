@@ -59,7 +59,7 @@ def main_sequence(WorD):
         "What are you looking for?  Nouns (1), Verbs (2), END (3)? "))
     
         if WorD == 'END' or WorD == '3':
-            count = 100
+            count = 999
             return print("Program Has Ended.") 
 
         elif WorD == 'nouns' or WorD == '1':
