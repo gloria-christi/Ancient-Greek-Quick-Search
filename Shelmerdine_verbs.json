@@ -1,0 +1,49 @@
+{
+
+
+    "βλάπτω": "Singular/First-Person/Present/Indictive/Active - 'I Harm, I injure, I damage'", 
+    "βλάψω": "Singular/First-Person/Future/Indictive/Active of βλάπτω - 'I will Harm, I will injure, I will damage'", 
+    "ἔβλάψα": "Aorsit/First person/Future/Indictive/Active of βλάπτω - 'I Harmed, I injured, I damaged'",
+    
+    "γράφω": "Singular/First-Person/Present/Indictive/Active - 'I write'",
+    "γράψω": "Singular/First-Person/Future/Indictive/Active of γράφω - 'I will write'",
+    "ἔγραψα": "Aorsit/First person/Future/Indictive/Active of γράφω - 'I Wrote'",
+    
+    "διδάσκω": "Singular/First-Person/Present/Indictive/Active - 'I teach'",
+    "διδάξω": "Singular/First-Person/Future/Indictive/Active of διδάσκω - 'I will teach'",
+    "ἐδίδαξα": "Aorsit/First person/Future/Indictive/Active of διδάσκω - 'I taught'",
+
+    "διώκω": "Singular/First-Person/Present/Indictive/Active - 'I pursue'",
+    "διώξω": "Singular/First-Person/Future/Indictive/Active of διώκω - 'I will pursue'",
+    "ἐδίωξα": "Aorsit/First person/Future/Indictive/Active of διώκω - 'I pursued'",
+
+    "θύω": "Singular/First-Person/Present/Indictive/Active - 'I sacrifice' or 'I make a sacrifice'",
+    "θύσω": "Singular/First-Person/Future/Indictive/Active of θύω - 'I will sacrifice' or 'I will make a sacrifice'",
+    "ἔθυσα": "Aorsit/First person/Future/Indictive/Active of θύω - 'I sacrificed' or 'I made a sacrifice'",
+
+    "λύω": "Singular/First-Person/Present/Indictive/Active - 'I release, I set free; I undo, I destroy'",
+    "λύσω": "Singular/First-Person/Future/Indictive/Active of λύω - 'I will release, I will set free; I will undo, I will destroy'",
+    "ἔλυσα": "Aorsit/First person/Future/Indictive/Active of λύω - 'I will release, I will set free; I will undo, I will destroy'",
+
+    "παύω": "Singular/First-Person/Present/Indictive/Active - 'I stop'",
+    "παύσω": "Singular/First-Person/Future/Indictive/Active of παύω - 'I will stop'",
+    "ἔπαυσα": "Aorsit/First person/Future/Indictive/Active of παύω - 'I stopped'",
+
+    "πείθω": "Singular/First-Person/Present/Indictive/Active - 'I persuade'",
+    "πείσω": "Singular/First-Person/Future/Indictive/Active of πείθω - 'I will persuade'",
+    "ἔπεισα": "Aorsit/First person/Future/Indictive/Active of πείθω - 'I persuaded'",
+
+    "πέμπω": "Singular/First-Person/Present/Indictive/Active - 'I send'",
+    "πέμψω": "Singular/First-Person/Future/Indictive/Active of πέμπω - 'I will send'",
+    "ἔπεμψα": "Aorsit/First person/Future/Indictive/Active of πέμπω - 'I sent'",
+
+    "στρατεύω": "Singular/First-Person/Present/Indictive/Active - 'I march; I wage war'",
+    "στρατεύσω": "Singular/First-Person/Future/Indictive/Active of στρατεύω - 'I will march; I will wage war'",
+    "ἐστράτευσα": "Aorsit/First person/Future/Indictive/Active of στρατεύω - 'I marched; I waged war'",
+
+    "σῴζω": "Singular/First-Person/Present/Indictive/Active - 'I save'",
+    "σώσω": "Singular/First-Person/Future/Indictive/Active of σῴζω - 'I will save'",
+    "ἔσωσα": "Aorsit/First person/Future/Indictive/Active of σῴζω - 'I saved'"
+    
+
+}
